@@ -1,1 +1,2 @@
-# snakeGame
+# Games Using C++
+## Snake Game
